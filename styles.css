@@ -2,27 +2,27 @@
    font-family: 'Roboto', sans-serif;
 }
 
-.usideTitle{
+.asideTitle{
    text-align: center;
 }
 
-.usideText {
+.asideText {
   margin-left: 20px ;
   margin-top: 30px;
 }
 
-.Left {
+.left {
    background-color: #FBCADB;
    ;
 }
 
-.aPropos {
+.about{
    margin-bottom: 430px;
    display: block;
 }
 
 
-.Loisirs i {
+.hobbies i {
 border: 2px solid black;
 padding: 10px;
 background-color: white;
